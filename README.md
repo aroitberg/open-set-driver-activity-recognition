@@ -1,3 +1,2 @@
 # open-set-driver-activity-recognition
-Open set driver behavior recognition: dataset splits and evaluation protocol.
-Details follow.
+To obtain the Open-Drive&Act splits and evaluation details, please do not hesitate to contact [Alina Roitberg](https://cvhci.anthropomatik.kit.edu/~aroitberg).
